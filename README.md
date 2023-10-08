@@ -1,0 +1,1 @@
+# SQL-QUERIES-ON-HR-SChema-of-a-an-Organization
